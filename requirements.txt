@@ -1,5 +1,6 @@
 langchain==0.2.10
 langchain-openai==0.1.17
+langchain-community==0.2.10
 python-dotenv==1.0.1
 langgraph==0.1.19
 streamlit==1.32.0
