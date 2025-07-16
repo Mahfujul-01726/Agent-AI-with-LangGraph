@@ -11,6 +11,9 @@ A web-based AI assistant that can search the internet to answer questions using 
 - Customizable search parameters
 - Deployment-ready with in-app API key management
 
+## Live Demo :
+https://8zfpsawfwe7vacjtjfa2az.streamlit.app/
+
 ## How to run locally
 
 1. Create and activate a conda environment:
